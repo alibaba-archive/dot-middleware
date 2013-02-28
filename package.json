@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "Junyuan Qi",
+    "email": "conan007ai@gmail.com",
+    "url": "http://junyuan.teambition.com"
+  },
+  "name": "dot-middleware",
+  "description": "doT.js middleware for connect.",
+  "version": "0.0.1",
+  "main": "lib/middleware.js",
+  "dependencies": {
+    "dot": ">= 1.0.0",
+    "mkdirp": ">= 0.3.1",
+    "uglify-js": "~2.2.5"
+  },
+  "engines": {
+    "node": "0.8.*"
+  },
+  "readmeFilename": "README.md",
+  "_id": "dot-middleware@0.0.1",
+  "_from": "dot-middleware@",
+  "readme": "#doT Middleware for Connect\n\ndoT - middleware (adapted from the stylus middleware)"
+}
