@@ -21,4 +21,4 @@ If you're using express, then put the following configuration to your app.
 
 ## Warn
 
-Just started.
+Make sure that you put your templates in a sperate directory as .
