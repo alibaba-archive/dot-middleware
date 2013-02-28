@@ -21,8 +21,6 @@ If you're using express, then put the following configuration to your app.
 
 ## Warn
 
-<<<<<<< HEAD
-Make sure that you put your templates in a sperate directory as .
-=======
-Just started.
->>>>>>> 5af36b98e63fe006a0e17988ea3a7caa0bbb301b
+* Make sure that you put your templates in a sperate directory named as 'templates'.
+* Use .dot as filetype.
+
