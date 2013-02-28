@@ -6,7 +6,7 @@
   },
   "name": "dot-middleware",
   "description": "doT.js middleware for connect.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/middleware.js",
   "dependencies": {
     "dot": ">= 1.0.0",
