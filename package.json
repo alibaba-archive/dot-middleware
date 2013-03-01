@@ -6,7 +6,7 @@
   },
   "name": "dot-middleware",
   "description": "doT.js middleware for connect.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib/middleware.js",
   "dependencies": {
     "dot": ">= 1.0.0",
@@ -17,7 +17,11 @@
     "node": "0.8.*"
   },
   "readmeFilename": "README.md",
-  "_id": "dot-middleware@0.0.1",
-  "_from": "dot-middleware@",
-  "readme": "#doT Middleware for Connect\n\ndoT - middleware (adapted from the stylus middleware)"
+  "_id": "dot-middleware@0.0.2",
+  "_from": "dot-middleware@0.0.2",
+  "readme": "#doT Middleware for Connect\n\ndoT - middleware (adapted from the stylus middleware)",
+  "dist": {
+    "shasum": "382deb96cf11660a2f1d1bf8f4843cc44f5022ea"
+  },
+  "_resolved": "https://registry.npmjs.org/dot-middleware/-/dot-middleware-0.0.2.tgz"
 }

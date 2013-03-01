@@ -19,8 +19,11 @@ If you're using express, then put the following configuration to your app.
 	}));
 	app.use(express.static(path.join(__dirname, 'public')));
 
+You can use .html as file extension as well as .dot by adding an options: 
+	
+	extension: 'html'
+
 ## Warn
 
 * Make sure that you put your templates in a sperate directory named as 'templates'.
-* Use .dot as filetype.
 
